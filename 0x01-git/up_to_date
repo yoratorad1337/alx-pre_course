@@ -1,0 +1,5 @@
+cd 0x01-git
+touch up_to_date
+git commmit -m " How to be up to date in git"
+git push -u origin main
+
